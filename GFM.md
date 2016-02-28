@@ -1,4 +1,5 @@
 #GFM
+
 ##Headings
 
 ```
@@ -103,6 +104,7 @@ use `-` or `*`
     * Ask for feedback
 
 ##Task lists
+
 ```
 - [x] Finish my changes
 - [ ] Push my commits to GitHub
@@ -129,14 +131,17 @@ use `-` or `*`
 @github/support What do you think about these updates?
 
 ##Using emoji
+
 `:EMOJICODE:`
 
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
 ##Paragraphs and line breaks
+
 You can create a new paragraph by leaving a blank line between lines of text.
 
 ##Ignoring Markdown formatting
+
 You can tell GitHub to ignore (or escape) Markdown formatting by using `\` before the Markdown character.
 
 Let's rename \*our-new-project\* to \*our-old-project\*.
@@ -173,7 +178,3 @@ To include a pipe | as content within your cell, use a \ before the pipe:
 | ---      | ---       |
 | Backtick | `         |
 | Pipe     | \|        |
-
-##Formulas
-
-$$E=mc^2$$
