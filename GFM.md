@@ -3,7 +3,11 @@
 ### Quick links
 
 `The words in parentheses should be lowercase.`
-
+```
+- [Headings](#headings)
+- [Styling text](#styling-text)
+    - [Test](#test)
+```
 - [Headings](#headings)
 - [Styling text](#styling-text)
     - [Test](#test)
