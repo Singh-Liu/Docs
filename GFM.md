@@ -28,9 +28,8 @@ Bold and italic	`** **` and `_ _`		**This text is _extremely_ important**
 ## Quoting text
 
 In the words of Abraham Lincoln:
-> Pardon my French
-
-
+> Pardon my French<br><br>
+ <br>
 > Coffee. The finest organic suspension ever devised... I beat the Borg with it.
 > - Captain Janeway
 
@@ -68,6 +67,7 @@ Visit https://github.com
 ## Images
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 
 ## Lists
 
