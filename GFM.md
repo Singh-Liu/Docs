@@ -64,10 +64,10 @@ In the words of Abraham Lincoln:
 > Pardon my French
 
 >Data Structure  
->>tree   
->>>binary tree  
->>>>balanced binary tree   
->>>>>full binary tree  
+>>Tree   
+>>>Binary Tree  
+>>>>Balanced Binary Tree   
+>>>>>Full Binary Tree  
 
 ## Quoting code
 
