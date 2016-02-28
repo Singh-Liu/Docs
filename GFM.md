@@ -132,11 +132,11 @@ Putting a hyperlink on the image:
 
 1.
 ```
-[![head]](http://blog.csdn.net/guodongxiaren/article/details/23690801)
-[head]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/jianxin.jpg "点击图片进入我的博客"
+[![head]](http://www.zhihu.com)
+[head]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/jianxin.jpg "点击图片进入知乎"
 ```
-[![head]](http://blog.csdn.net/guodongxiaren/article/details/23690801)
-[head]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/jianxin.jpg "点击图片进入我的博客"
+[![head]](http://www.zhihu.com)
+[head]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/jianxin.jpg "点击图片进入知乎"
 
 2.
 `[![内容任意](http://www.baidu.com/img/bdlogo.gif "百度logo")](http://www.baidu.com)`
