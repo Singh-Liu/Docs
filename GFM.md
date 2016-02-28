@@ -31,8 +31,8 @@ Bold and italic	`** **` and `_ _`		**This text is _extremely_ important**
 
 ##Wrapping to the next row
 
-Press ENTER 2 times after the end of the sentence.  
-Use 2 spaces after the end of the sentence, then press ENTER.  
+Press ENTER 2 times after the end of the line.  
+Insert a blank line.(Use 2 spaces after the end of the line, then press ENTER.)  
 Use \<br> to wrap to the next row.  
 ```
 111
@@ -59,7 +59,7 @@ Use \<br> to wrap to the next row.
 
 In the words of Abraham Lincoln:
 > Pardon my French<br><br>
- 
+
 > Coffee. The finest organic suspension ever devised... I beat the Borg with it.- Captain Janeway
 
 ## Quoting code
