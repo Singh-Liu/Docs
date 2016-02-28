@@ -58,8 +58,8 @@ Use \<br> to wrap to the next row.
 ## Quoting text
 
 In the words of Abraham Lincoln:
-> Pardon my French<br><br>
-
+> Pardon my French
+<br>
 > Coffee. The finest organic suspension ever devised... I beat the Borg with it.- Captain Janeway
 
 ## Quoting code
