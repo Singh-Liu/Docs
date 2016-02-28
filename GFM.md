@@ -1,15 +1,5 @@
 #GFM
 
-[markdown]
-# headLineOne
-
-## something
-
-[TOC]
-
-## something more
-[/markdown]
-
 ### Quick links
 - [Headings](#Headings)
 - [Styling text](#Styling-text)
@@ -19,8 +9,6 @@
     - [NuGet](#install-with-nuget)
     - [Custom](#custom-build)
     - [Manual](#manual-download)
-
-
 
 
 # Headings
@@ -43,12 +31,12 @@ Strikethrough	`~~ ~~`		~~This was mistaken text~~
 
 Bold and italic	`** **` and `_ _`		**This text is _extremely_ important**
 
-##Quoting text
+## Quoting text
 
 In the words of Abraham Lincoln:
 > Pardon my French
 
-##Quoting code
+## Quoting code
 
 Use `git status` to list all new or modified files that haven't yet been committed.
 
@@ -71,7 +59,7 @@ markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
 
-##Links
+## Links
 
 `command + k`
 
@@ -79,7 +67,7 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 Visit https://github.com
 
-##Lists
+## Lists
 
 use `-` or `*`
 
@@ -108,6 +96,16 @@ use `-` or `*`
 2. James Monroe
 3. John Quincy Adams
 ```
+- Dashes work just as well
+- And if you have sub points, put two spaces before the dash or star:
+  - Like this
+  - And this
+```
+- Dashes work just as well
+- And if you have sub points, put two spaces before the dash or star:
+  - Like this
+  - And this
+```
 1. Make my changes
   1. Fix bug
   2. Improve formatting
@@ -128,7 +126,7 @@ use `-` or `*`
   * Mention all the members of my team
     * Ask for feedback
 
-##Task lists
+## Task lists
 
 ```
 - [x] Finish my changes
@@ -151,27 +149,27 @@ use `-` or `*`
 - [ ] incomplete
 - [x] completed
 
-##Mentioning users and teams
+## Mentioning users and teams
 
 @github/support What do you think about these updates?
 
-##Using emoji
+## Using emoji
 
 `:EMOJICODE:`
 
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
-##Paragraphs and line breaks
+## Paragraphs and line breaks
 
 You can create a new paragraph by leaving a blank line between lines of text.
 
-##Ignoring Markdown formatting
+## Ignoring Markdown formatting
 
 You can tell GitHub to ignore (or escape) Markdown formatting by using `\` before the Markdown character.
 
 Let's rename \*our-new-project\* to \*our-old-project\*.
 
-##Creating a table
+## Creating a table
 
 | First Header  | Second Header |
 | ------------- | ------------- |
@@ -185,7 +183,7 @@ Cells can vary in width and do not need to be perfectly aligned within columns. 
 | git status | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
 
-##Formatting content within your table
+## Formatting content within your table
 
 | Command | Description |
 | --- | --- |
