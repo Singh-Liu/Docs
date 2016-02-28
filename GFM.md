@@ -101,12 +101,23 @@ use `-` or `*`
   * Describe my changes
   * Mention all the members of my team
     * Ask for feedback
-##Task lists
 
+##Task lists
+```
 - [x] Finish my changes
 - [ ] Push my commits to GitHub
 - [ ] Open a pull request
-
+```
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
+```
+- [ ] a task list item
+- [ ] list syntax required
+- [ ] normal **formatting**, @mentions, #1234 refs
+- [ ] incomplete
+- [x] completed
+```
 - [ ] a task list item
 - [ ] list syntax required
 - [ ] normal **formatting**, @mentions, #1234 refs
