@@ -59,7 +59,7 @@ Use \<br> to wrap to the next row.
 
 In the words of Abraham Lincoln:
 > Pardon my French
-<br>
+<br><br><br>
 > Coffee. The finest organic suspension ever devised... I beat the Borg with it.- Captain Janeway
 
 ## Quoting code
@@ -90,6 +90,8 @@ puts markdown.to_html
 `command + k`
 
 This site was built using [GitHub Pages](https://pages.github.com/).
+
+[GitHub Pages](http://blog.csdn.net/guodongxiaren "悬停显示")  
 
 Visit https://github.com
 
