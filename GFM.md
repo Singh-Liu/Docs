@@ -9,7 +9,7 @@
 
 ##Styling text
 
-Bold	** ** or __ __	command/control + b	**This is bold text**
+Bold	|** **| or |__ __|	command/control + b	**This is bold text**
 
 Italic	* * or _ _	command/control + i	*This text is italicized*
 
@@ -140,3 +140,18 @@ You can create a new paragraph by leaving a blank line between lines of text.
 You can tell GitHub to ignore (or escape) Markdown formatting by using `\` before the Markdown character.
 
 Let's rename \*our-new-project\* to \*our-old-project\*.
+
+##Creating a table
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+Cells can vary in width and do not need to be perfectly aligned within columns. There must be at least `three hyphens` in each column of the header row.
+
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
