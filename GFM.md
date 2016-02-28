@@ -8,7 +8,7 @@
 ```
 
 ##Styling text
-
+|---| |---|
 Bold	|** **| or |__ __|	command/control + b	**This is bold text**
 
 Italic	* * or _ _	command/control + i	*This text is italicized*
@@ -155,3 +155,23 @@ Cells can vary in width and do not need to be perfectly aligned within columns. 
 | git status | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
 
+##Formatting content within your table
+
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+
+To include a pipe | as content within your cell, use a \ before the pipe:
+
+| Name     | Character |
+| ---      | ---       |
+| Backtick | `         |
+| Pipe     | \|        |
+
+##
