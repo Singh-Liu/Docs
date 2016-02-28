@@ -1,8 +1,8 @@
 #GFM
 
 ### Quick links
-- [Headings](##Headings)
-- [Styling text](##Styling text)
+- [Headings](#Headings)
+- [Styling text](#Styling text)
 - [Installation](#installation)
     - [NPM](#install-with-npm)
     - [Bower](#install-with-bower)
@@ -15,7 +15,7 @@
 [^!DEF]: 这是脚注标签的定义
 
 
-##Headings
+#Headings
 
 
 # The largest heading
@@ -25,7 +25,7 @@
 ##### The 5th largest heading
 ###### The smallest heading (6#)
 
-##Styling text
+#Styling text
 
 Bold	|** **| or |__ __|	command/control + b	**This is bold text**
 
