@@ -1,6 +1,6 @@
 #GFM
 
-### Quick links
+## Quick links
 
 ```
 - [Headings](#headings)
