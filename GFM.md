@@ -101,8 +101,11 @@ Visit https://github.com
 
 ##Linking to a file in the local repository
 
-`[Book](./Book)`
+`[Book](./Book)`  
 [Book](./Book)
+
+`[GFM](./GFM.md)`  
+[GFM](./GFM.md)
 
 ## Images
 
