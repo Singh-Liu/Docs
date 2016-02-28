@@ -2,7 +2,6 @@
 
 ### Quick links
 
-`The words in parentheses should be lowercase.`
 ```
 - [Headings](#headings)
 - [Styling text](#styling-text)
@@ -99,13 +98,21 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 Visit https://github.com
 
-##Linking to a file in the local repository
+## Linking to a file in the local repository
 
 `[Book](./Book)`  
 [Book](./Book)
 
 `[GFM](./GFM.md)`  
 [GFM](./GFM.md)
+
+## Anchors
+
+Use the anchor tag `#` in HTML to define where we want to jump to.  
+Please note that the words in parentheses should be lowercase.
+
+`[Headings](#headings)`
+[Headings](#headings)
 
 ## Images
 
