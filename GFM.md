@@ -2,7 +2,7 @@
 
 ### Quick links
 - [Headings](#Headings)
-- [Styling text](#Styling text)
+- [Styling-text](#Styling-text)
 - [Installation](#installation)
     - [NPM](#install-with-npm)
     - [Bower](#install-with-bower)
