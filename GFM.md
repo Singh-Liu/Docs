@@ -8,7 +8,7 @@
 - [Styling text](#styling-text)
     - [Test](#test)
 
-# Headings
+## Headings
 
 
 # The largest heading
@@ -18,7 +18,7 @@
 ##### The 5th largest heading
 ###### The smallest heading (6#)
 
-# Styling text
+## Styling text
 
 Bold	`** **` or `__ __`	command/control + b	**This is bold text**
 
@@ -28,7 +28,7 @@ Strikethrough	`~~ ~~`		~~This was mistaken text~~
 
 Bold and italic	`** **` and `_ _`		**This text is _extremely_ important**
 
-## Test
+#### Test
 
 ## Quoting text
 
