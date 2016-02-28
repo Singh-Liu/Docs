@@ -1,4 +1,4 @@
-GFM
+#GFM
 ===
 ##Headings
 
@@ -45,11 +45,7 @@ require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
-===
 
-##test
-
-##Links
 ##Links
 
 `command + k`
