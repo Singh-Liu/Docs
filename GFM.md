@@ -108,6 +108,18 @@ use `-` or `*`
   - Like this
   - And this
 ```
+1. Item 1
+2. Item 2
+3. Item 3
+   * Item 3a
+   * Item 3b
+```
+1. Item 1
+2. Item 2
+3. Item 3
+   * Item 3a
+   * Item 3b
+```
 1. Make my changes
   1. Fix bug
   2. Improve formatting
