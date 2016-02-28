@@ -63,7 +63,7 @@ Use \<br> to wrap to the next row.
 In the words of Abraham Lincoln:
 > Pardon my French
 
-  123
+  
 > Coffee. The finest organic suspension ever devised... I beat the Borg with it.- Captain Janeway
 
 ## Quoting code
