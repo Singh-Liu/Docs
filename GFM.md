@@ -121,7 +121,26 @@ Please note that the words in parentheses should be lowercase.
 ## Images
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
+![](https://assets-cdn.github.com/images/modules/contact/goldstar.gif)
 
+Images in GitHub:
+
+![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)
+
+Putting a hyperlink on the image:
+
+1.
+```
+[![head]](http://blog.csdn.net/guodongxiaren/article/details/23690801)
+[head]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/jianxin.jpg "点击图片进入我的博客"
+```
+[![head]](http://blog.csdn.net/guodongxiaren/article/details/23690801)
+[head]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/jianxin.jpg "点击图片进入我的博客"
+
+2.
+`[![内容任意](http://www.baidu.com/img/bdlogo.gif "百度logo")](http://www.baidu.com)`
+[![内容任意](http://www.baidu.com/img/bdlogo.gif "百度logo")](http://www.baidu.com)
 
 ## Lists
 
