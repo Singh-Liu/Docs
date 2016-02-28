@@ -1,10 +1,13 @@
 #GFM
 
 ### Quick links
-- [Headings](#headings)
-- [Styling text](#styling-text)
 
-# Headings
+`The words in parentheses should be lowercase.`
+
+- [Headings](##headings)
+- [Styling text](##styling-text)
+
+## Headings
 
 
 # The largest heading
@@ -14,7 +17,7 @@
 ##### The 5th largest heading
 ###### The smallest heading (6#)
 
-# Styling text
+## Styling text
 
 Bold	`** **` or `__ __`	command/control + b	**This is bold text**
 
