@@ -58,18 +58,25 @@ Visit https://github.com
 
 use `-` or `*`
 
+```
 - George Washington
 - John Adams
 - Thomas Jefferson
+```
 
+```
 * George Washington
 * John Adams
 * Thomas Jefferson
+```
 
+```
 1. James Madison
 2. James Monroe
 3. John Quincy Adams
- 
+```
+
+```
 1. Make my changes
   1. Fix bug
   2. Improve formatting
@@ -79,6 +86,7 @@ use `-` or `*`
   * Describe my changes
   * Mention all the members of my team
     * Ask for feedback
+```
 
 ##Task lists
 
