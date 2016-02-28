@@ -29,9 +29,8 @@ Bold and italic	`** **` and `_ _`		**This text is _extremely_ important**
 
 In the words of Abraham Lincoln:
 > Pardon my French<br><br>
- <br>
-> Coffee. The finest organic suspension ever devised... I beat the Borg with it.
-> - Captain Janeway
+ 
+Coffee. The finest organic suspension ever devised... I beat the Borg with it.- Captain Janeway
 
 ## Quoting code
 
