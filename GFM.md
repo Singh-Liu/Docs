@@ -1,12 +1,22 @@
 #GFM
 
+[TOC]
+
+### Quick links
+- [Headings](##Headings)
+- [Styling text](##Styling text)
+- 
+
+
 ##Headings
 
-```
+
 # The largest heading
-## The second largest heading
+## The 2nd largest heading
+### The 3rd largest heading
+#### The 4th largest heading
+##### The 5th largest heading
 ###### The smallest heading (6#)
-```
 
 ##Styling text
 
