@@ -1,17 +1,11 @@
 #GFM
 
 ### Quick links
-- [Headings](#Headings)
-- [Styling text](#Styling-text)
-- [Installation](#installation)
-    - [NPM](#install-with-npm)
-    - [Bower](#install-with-bower)
-    - [NuGet](#install-with-nuget)
-    - [Custom](#custom-build)
-    - [Manual](#manual-download)
+- [Headings](##Headings)
+- [Styling text](##Styling-text)
 
 
-# Headings
+## Headings
 
 
 # The largest heading
@@ -21,7 +15,7 @@
 ##### The 5th largest heading
 ###### The smallest heading (6#)
 
-# Styling text
+## Styling text
 
 Bold	`** **` or `__ __`	command/control + b	**This is bold text**
 
@@ -35,6 +29,10 @@ Bold and italic	`** **` and `_ _`		**This text is _extremely_ important**
 
 In the words of Abraham Lincoln:
 > Pardon my French
+
+
+> Coffee. The finest organic suspension ever devised... I beat the Borg with it.
+> - Captain Janeway
 
 ## Quoting code
 
@@ -66,6 +64,10 @@ puts markdown.to_html
 This site was built using [GitHub Pages](https://pages.github.com/).
 
 Visit https://github.com
+
+## Images
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ## Lists
 
