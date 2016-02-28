@@ -4,6 +4,11 @@
 - [Headings](##Headings)
 - [Styling text](##Styling text)
 - [Installation](#installation)
+    - [NPM](#install-with-npm)
+    - [Bower](#install-with-bower)
+    - [NuGet](#install-with-nuget)
+    - [Custom](#custom-build)
+    - [Manual](#manual-download)
 
 [ ^1]: 这是一个脚注
 [^label]: 这是脚注的标签
