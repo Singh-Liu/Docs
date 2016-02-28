@@ -121,7 +121,7 @@ Please note that the words in parentheses should be lowercase.
 ## Images
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
+![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")  
 ![](https://www.baidu.com/img/bd_logo1.png)
 
 Images in GitHub:
@@ -212,6 +212,25 @@ use `-` or `*`. Don't miss the space after `-` or `*`.
   * Describe my changes
   * Mention all the members of my team
     * Ask for feedback
+
+可以在第一行指定`1. `，而接下来的几行用星号`*`（或者继续用数字1. ）就可以了，它会自动显示成2、3、4……。    
+面向对象的七大原则：
+```
+1. 开闭原则
+* 里氏转换原则
+* 依赖倒转原则
+* 接口隔离原则
+* 组合/聚合复用原则
+* “迪米特”法则
+* 单一直则原则
+```
+1. 开闭原则
+* 里氏转换原则
+* 依赖倒转原则
+* 接口隔离原则
+* 组合/聚合复用原则
+* “迪米特”法则
+* 单一直则原则
 
 ## Task lists
 
