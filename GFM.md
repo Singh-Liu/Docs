@@ -35,10 +35,7 @@ Bold and italic	`** **` and `_ _`		**This text is _extremely_ important**
 
 ##Quoting text
 
-In the words of Abraham Lincoln
-[ ^1]: 这是一个脚注
-[^label]: 这是脚注的标签
-[^!DEF]: 这是脚注标签的定义:
+In the words of Abraham Lincoln:
 > Pardon my French
 
 ##Quoting code
