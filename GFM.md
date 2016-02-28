@@ -122,7 +122,7 @@ Please note that the words in parentheses should be lowercase.
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
-![](https://assets-cdn.github.com/images/modules/contact/goldstar.gif)
+![](https://www.baidu.com/img/bd_logo1.png)
 
 Images in GitHub:
 
