@@ -106,7 +106,7 @@ Visit https://github.com
 
 ## Lists
 
-use `-` or `*`
+use `-` or `*`. Don't miss the space after `-` or `*`.
 
 ```
 - George Washington
