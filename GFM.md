@@ -4,7 +4,6 @@
 - [Headings](##Headings)
 - [Styling text](##Styling-text)
 
-
 ## Headings
 
 
@@ -172,6 +171,8 @@ use `-` or `*`
 
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
+For a full list of available emoji and codes, check out [emoji-cheat-sheet.com](http://www.emoji-cheat-sheet.com/).
+
 ## Paragraphs and line breaks
 
 You can create a new paragraph by leaving a blank line between lines of text.
@@ -183,6 +184,11 @@ You can tell GitHub to ignore (or escape) Markdown formatting by using `\` befor
 Let's rename \*our-new-project\* to \*our-old-project\*.
 
 ## Creating a table
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
 | First Header  | Second Header |
 | ------------- | ------------- |
