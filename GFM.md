@@ -343,3 +343,9 @@ To include a pipe | as content within your cell, use a \ before the pipe:
 | ---      | ---       |
 | Backtick | `         |
 | Pipe     | \|        |
+
+表格中嵌入图片
+
+| 图片 | 描述 |
+| ---- | ---- |
+![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo") | baidu
