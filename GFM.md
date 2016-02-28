@@ -62,7 +62,8 @@ Use \<br> to wrap to the next row.
 
 In the words of Abraham Lincoln:
 > Pardon my French
-<br><br><br>
+
+  123
 > Coffee. The finest organic suspension ever devised... I beat the Borg with it.- Captain Janeway
 
 ## Quoting code
@@ -111,7 +112,7 @@ Visit https://github.com
 Use the anchor tag `#` in HTML to define where we want to jump to.  
 Please note that the words in parentheses should be lowercase.
 
-`[Headings](#headings)`
+`[Headings](#headings)`  
 [Headings](#headings)
 
 ## Images
