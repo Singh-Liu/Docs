@@ -32,9 +32,8 @@ Bold and italic	`** **` and `_ _`		**This text is _extremely_ important**
 ##Wrapping to the next row
 
 Press ENTER 2 times after the end of the sentence.  
-Use spaces after the end of the sentence, then press ENTER.  
-Use <br> to wrap to the next row.
-
+Use 2 spaces after the end of the sentence, then press ENTER.  
+Use <br> to wrap to the next row.  
 ```
 111
 111
@@ -46,7 +45,7 @@ Use <br> to wrap to the next row.
 
 111
 ```
-111  
+111  //2 spaces
 111
 ```
 111  
