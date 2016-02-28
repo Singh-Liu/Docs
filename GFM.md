@@ -8,7 +8,7 @@
 ```
 
 ##Styling text
-|---| |---|
+
 Bold	|** **| or |__ __|	command/control + b	**This is bold text**
 
 Italic	* * or _ _	command/control + i	*This text is italicized*
@@ -174,4 +174,6 @@ To include a pipe | as content within your cell, use a \ before the pipe:
 | Backtick | `         |
 | Pipe     | \|        |
 
-##
+##Formulas
+
+$$E=mc^2$$
