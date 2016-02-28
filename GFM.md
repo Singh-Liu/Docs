@@ -1,8 +1,8 @@
 #GFM
 
 ### Quick links
-- [Demo](#demo)
-- [Angular 2](#angular-2)
+- [Headings](#Headings)
+- [Styling text](#Styling-text)
 - [Installation](#installation)
     - [NPM](#install-with-npm)
     - [Bower](#install-with-bower)
@@ -13,7 +13,7 @@
 
 
 
-# Demo
+# Headings
 
 
 # The largest heading
@@ -23,7 +23,7 @@
 ##### The 5th largest heading
 ###### The smallest heading (6#)
 
-# Angular 2
+# Styling text
 
 Bold	`** **` or `__ __`	command/control + b	**This is bold text**
 
