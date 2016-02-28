@@ -99,6 +99,11 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 Visit https://github.com
 
+##Linking to a file in the local repository
+
+`[Book](./Book)`
+[Book](./Book)
+
 ## Images
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
