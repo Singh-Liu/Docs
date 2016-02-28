@@ -4,10 +4,11 @@
 
 `The words in parentheses should be lowercase.`
 
-- [Headings](##headings)
-- [Styling text](##styling-text)
+- [Headings](#headings)
+- [Styling text](#styling-text)
+    - [Test](#test)
 
-## Headings
+# Headings
 
 
 # The largest heading
@@ -17,7 +18,7 @@
 ##### The 5th largest heading
 ###### The smallest heading (6#)
 
-## Styling text
+# Styling text
 
 Bold	`** **` or `__ __`	command/control + b	**This is bold text**
 
@@ -26,6 +27,8 @@ Italic	`* *` or `_ _`	command/control + i	*This text is italicized*
 Strikethrough	`~~ ~~`		~~This was mistaken text~~
 
 Bold and italic	`** **` and `_ _`		**This text is _extremely_ important**
+
+## Test
 
 ## Quoting text
 
