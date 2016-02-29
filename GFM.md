@@ -10,6 +10,21 @@
 - [Headings](#headings)
 - [Styling text](#styling-text)
     - [Test](#test)
+- [Paragraphs and line breaks](#paragraphs-and-line-breaks)
+- [Quoting text](#quoting-text)
+- [Quoting code](#quoting-code)
+- [Links](#links)
+    - [Linking to a file in the local repository](#linking-to-a-file-in-the-local-repository)
+    - [Anchors](#anchors)
+- [Images](#images)
+- [Lists](#lists)
+- [Task lists](#task-lists)
+- [Mentioning users and teams](#mentioning-users-and-teams)
+- [Using emoji](#using-emoji)
+- [Ignoring Markdown formatting](#ignoring-Markdown-formatting)
+- [Creating a table](#creating-a-table)
+  - [Formatting content within your table](#formatting-content-within-your-table)
+  - [Insert images in the table](#insert-images-in-the-table)
 
 ## Headings
 
@@ -32,10 +47,10 @@ Bold and italic	`** **` and `_ _`		**This text is _extremely_ important**
 
 #### Test
 
-##Wrapping to the next row
+##Paragraphs and line breaks
 
 Press ENTER 2 times after the end of the line.  
-Insert a blank line.(Use 2 spaces after the end of the line, then press ENTER.)  
+You can create a new paragraph by leaving a blank line between lines of text.
 Use \<br> to wrap to the next row.  
 ```
 111
@@ -109,7 +124,7 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 Visit https://github.com
 
-## Linking to a file in the local repository
+#### Linking to a file in the local repository
 
 `[Book](./Book)`  
 [Book](./Book)
@@ -117,7 +132,7 @@ Visit https://github.com
 `[GFM](./GFM.md)`  
 [GFM](./GFM.md)
 
-## Anchors
+#### Anchors
 
 Use the anchor tag `#` in HTML to define where we want to jump to.  
 Please note that the words in parentheses should be lowercase.
@@ -325,7 +340,7 @@ Cells can vary in width and do not need to be perfectly aligned within columns. 
 | git status | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
 
-## Formatting content within your table
+#### Formatting content within your table
 
 | Command | Description |
 | --- | --- |
@@ -344,7 +359,7 @@ To include a pipe | as content within your cell, use a \ before the pipe:
 | Backtick | `         |
 | Pipe     | \|        |
 
-表格中嵌入图片
+####Insert images in the table
 
 | Image | Description |
 | ---- | ---- |
