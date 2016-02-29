@@ -9,7 +9,7 @@
 ```
 - [Headings](#headings)
 - [Styling text](#styling-text)
-- [Bold line and fine line](bold-line-and-fine-line)
+- [Bold line and fine line](#bold-line-and-fine-line)
 - [Paragraphs and line breaks](#paragraphs-and-line-breaks)
 - [Quoting text](#quoting-text)
 - [Quoting code](#quoting-code)
@@ -47,12 +47,10 @@ Bold and italic	`** **` and `_ _`		**This text is _extremely_ important**
 
 ## Bold line and fine line
 
-`***`  
+`***` or `___` 
 ***
 `---`  
 ---
-`___`  
-___
 
 ##Paragraphs and line breaks
 
