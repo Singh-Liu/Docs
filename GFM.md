@@ -49,13 +49,13 @@
 
 ## Styling text
 
-Bold	`** **` or `__ __`	
-command/control + b	
+Bold	`** **` or `__ __`  
+command/control + b  	
 `**This is bold text**`  
 **This is bold text**
 
-Italic	`* *` or `_ _`	
-command/control + i	
+Italic	`* *` or `_ _`  
+command/control + i  	
 `*This text is italicized*`  
 *This text is italicized*
 
@@ -64,8 +64,8 @@ Strikethrough	`~~ ~~`
 ~~This was mistaken text~~
 
 Bold and italic	`** **` and `_ _`  
-`**This text is _extremely_ important**`  
-**This text is _extremely_ important**
+`**This text is *extremely* important**`  
+**This text is *extremely* important**
 
 [Back to Top](#gfm)
 
