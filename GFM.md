@@ -202,10 +202,10 @@ Please note that the words in parentheses should be lowercase.
 1.
 ```
 [![head]](http://www.zhihu.com)
-[head]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/jianxin.jpg "点击图片进入知乎"
+[head]:https://github.com/Singh-Liu/Docs/blob/master/Images/Singh1.jpg "点击图片进入知乎"
 ```
 [![head]](http://www.zhihu.com)
-[head]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/jianxin.jpg "点击图片进入知乎"
+[head]:https://github.com/Singh-Liu/Docs/blob/master/Images/Singh1.jpg "点击图片进入知乎"
 
 2.
 `[![内容任意](http://www.baidu.com/img/bdlogo.gif "百度logo")](http://www.baidu.com)`
