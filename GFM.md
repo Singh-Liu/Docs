@@ -372,6 +372,7 @@ For a full list of available emoji and codes, check out [emoji-cheat-sheet.com](
 
 You can tell GitHub to ignore (or escape) Markdown formatting by using `\` before the Markdown character.
 
+`Let's rename \*our-new-project\* to \*our-old-project\*.`  
 Let's rename \*our-new-project\* to \*our-old-project\*.
 
 [Back to Top](#gfm)
