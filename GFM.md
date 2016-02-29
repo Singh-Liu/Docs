@@ -17,6 +17,8 @@
     - [Linking to a file in the local repository](#linking-to-a-file-in-the-local-repository)
     - [Anchors](#anchors)
 - [Images](#images)
+    - [Images in GitHub](images-in-GitHub)
+    - [Putting a hyperlink on the image](putting-a-hyperlink-on-the-image)
 - [Lists](#lists)
 - [Task lists](#task-lists)
 - [Mentioning users and teams](#mentioning-users-and-teams)
@@ -165,17 +167,19 @@ Please note that the words in parentheses should be lowercase.
 `[Headings](#headings)`  
 [Headings](#headings)
 
+[Back to Top](#gfm)
+
 ## Images
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")  
 ![](https://www.baidu.com/img/bd_logo1.png)
 
-####Images in GitHub:
+####Images in GitHub
 
 ![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)
 
-####Putting a hyperlink on the image:
+####Putting a hyperlink on the image
 
 1.
 ```
