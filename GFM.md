@@ -360,8 +360,8 @@ use `-` or `*`. Don't miss the space after `-` or `*`.
 
 ## Using emoji
 
-`:EMOJICODE:`
-
+`:EMOJICODE:`  
+`@octocat :+1: This PR looks great - it's ready to merge! :shipit:`  
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
 For a full list of available emoji and codes, check out [emoji-cheat-sheet.com](http://www.emoji-cheat-sheet.com/).
