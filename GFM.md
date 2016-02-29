@@ -43,6 +43,8 @@
 ##### The 5th largest heading
 ###### The smallest heading (6#)
 
+[Back to Top](#gfm)
+
 ## Styling text
 
 Bold	`** **` or `__ __`	command/control + b	**This is bold text**
@@ -53,12 +55,16 @@ Strikethrough	`~~ ~~`		~~This was mistaken text~~
 
 Bold and italic	`** **` and `_ _`		**This text is _extremely_ important**
 
+[Back to Top](#gfm)
+
 ## Bold line and fine line
 
 `***` or `___` 
 ***
 `---`  
 ---
+
+[Back to Top](#gfm)
 
 ##Paragraphs and line breaks
 
@@ -86,6 +92,8 @@ Use \<br> to wrap to the next row.
 ```
 111<br>111
 
+[Back to Top](#gfm)
+
 ## Quoting text
 
 1. 
@@ -103,6 +111,8 @@ In the words of Abraham Lincoln:
 ><b>“端”（endian）的起源</b><br>
 以下是Jonathan Swift在1726年关于大小端之争历史的描述：<br>
 “……下面我要告诉你的是，Lilliput和Blefuscu这两大强国在过去36个月里一直在苦战。战争开始是由于以下的原因：我们大家都认为，吃鸡蛋前，原始的方法是打破鸡蛋较大的一端，可是当今的皇帝的祖父小时候吃鸡蛋，一次按古法打鸡蛋时碰巧将一个手指弄破了，因此他的父亲，当时的皇帝，就下了一道敕令，命令全体臣民吃鸡蛋时打破较小的一端，违令者重罚。”  
+
+[Back to Top](#gfm)
 
 ## Quoting code
 
@@ -126,6 +136,8 @@ require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
+
+[Back to Top](#gfm)
 
 ## Links
 
@@ -159,11 +171,11 @@ Please note that the words in parentheses should be lowercase.
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")  
 ![](https://www.baidu.com/img/bd_logo1.png)
 
-Images in GitHub:
+####Images in GitHub:
 
 ![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)
 
-Putting a hyperlink on the image:
+####Putting a hyperlink on the image:
 
 1.
 ```
@@ -176,6 +188,8 @@ Putting a hyperlink on the image:
 2.
 `[![内容任意](http://www.baidu.com/img/bdlogo.gif "百度logo")](http://www.baidu.com)`
 [![内容任意](http://www.baidu.com/img/bdlogo.gif "百度logo")](http://www.baidu.com)
+
+[Back to Top](#gfm)
 
 ## Lists
 
@@ -289,6 +303,8 @@ use `-` or `*`. Don't miss the space after `-` or `*`.
       1. 这是三级的数字列表，数字在显示的时候变成了英文字母
 	    1. 四级的数字列表显示效果，就不再变化了，依旧是英文字母
 
+[Back to Top](#gfm)
+
 ## Task lists
 
 ```
@@ -312,9 +328,13 @@ use `-` or `*`. Don't miss the space after `-` or `*`.
 - [ ] incomplete
 - [x] completed
 
+[Back to Top](#gfm)
+
 ## Mentioning users and teams
 
 @github/support What do you think about these updates?
+
+[Back to Top](#gfm)
 
 ## Using emoji
 
@@ -324,15 +344,15 @@ use `-` or `*`. Don't miss the space after `-` or `*`.
 
 For a full list of available emoji and codes, check out [emoji-cheat-sheet.com](http://www.emoji-cheat-sheet.com/).
 
-## Paragraphs and line breaks
-
-You can create a new paragraph by leaving a blank line between lines of text.
+[Back to Top](#gfm)
 
 ## Ignoring Markdown formatting
 
 You can tell GitHub to ignore (or escape) Markdown formatting by using `\` before the Markdown character.
 
 Let's rename \*our-new-project\* to \*our-old-project\*.
+
+[Back to Top](#gfm)
 
 ## Creating a table
 
