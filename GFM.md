@@ -378,4 +378,4 @@ To include a pipe | as content within your cell, use a \ before the pipe:
 | ---- | ---- |
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo") | baidu
 
-[Back to Top](#quick-links)
+[Back to Top](#gfm)
