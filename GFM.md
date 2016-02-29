@@ -23,7 +23,7 @@
 - [Task lists](#task-lists)
 - [Mentioning users and teams](#mentioning-users-and-teams)
 - [Using emoji](#using-emoji)
-- [Ignoring Markdown formatting](#ignoring-Markdown-formatting)
+- [Ignoring Markdown formatting](#ignoring-markdown-formatting)
 - [Creating a table](#creating-a-table)
   - [Formatting content within your table](#formatting-content-within-your-table)
   - [Insert images in the table](#insert-images-in-the-table)
@@ -141,6 +141,14 @@ git commit
 function test() {
   console.log("notice the blank line before this function?");
 }
+```
+
+```
+\`\`\`ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+\`\`\`
 ```
 
 ```ruby
