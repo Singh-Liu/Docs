@@ -183,8 +183,8 @@ Please note that the words in parentheses should be lowercase.
 
 ## Images
 
-`![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)`  
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+`![youku](http://static.youku.com/index/img/header/yklogo_h.png)`  
+![youku](http://static.youku.com/index/img/header/yklogo_h.png)
 
 `![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")`  
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")  
