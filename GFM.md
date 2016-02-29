@@ -155,8 +155,10 @@ puts markdown.to_html
 
 `command + k`
 
+`This site was built using [GitHub Pages](https://pages.github.com/).`  
 This site was built using [GitHub Pages](https://pages.github.com/).
 
+`[GitHub Pages](http://blog.csdn.net/guodongxiaren "悬停显示")  `  
 [GitHub Pages](http://blog.csdn.net/guodongxiaren "悬停显示")  
 
 Visit https://github.com
@@ -181,12 +183,18 @@ Please note that the words in parentheses should be lowercase.
 
 ## Images
 
+`![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)`  
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+`![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")`  
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")  
+
+`![](https://www.baidu.com/img/bd_logo1.png)`  
 ![](https://www.baidu.com/img/bd_logo1.png)
 
 ####Images in GitHub
 
+`![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)`  
 ![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)
 
 ####Putting a hyperlink on the image
