@@ -9,7 +9,7 @@
 ```
 - [Headings](#headings)
 - [Styling text](#styling-text)
-    - [Test](#test)
+- [Bold line and fine line](bold-line-and-fine-line)
 - [Paragraphs and line breaks](#paragraphs-and-line-breaks)
 - [Quoting text](#quoting-text)
 - [Quoting code](#quoting-code)
@@ -45,7 +45,14 @@ Strikethrough	`~~ ~~`		~~This was mistaken text~~
 
 Bold and italic	`** **` and `_ _`		**This text is _extremely_ important**
 
-#### Test
+## Bold line and fine line
+
+`***`  
+***
+`---`  
+---
+`___`  
+___
 
 ##Paragraphs and line breaks
 
