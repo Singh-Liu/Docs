@@ -17,7 +17,7 @@
     - [Linking to a file in the local repository](#linking-to-a-file-in-the-local-repository)
     - [Anchors](#anchors)
 - [Images](#images)
-    - [Images in GitHub](#images-in-gitHub)
+    - [Images in GitHub](#images-in-github)
     - [Putting a hyperlink on the image](#putting-a-hyperlink-on-the-image)
 - [Lists](#lists)
 - [Task lists](#task-lists)
