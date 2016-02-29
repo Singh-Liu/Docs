@@ -63,7 +63,7 @@ Strikethrough	`~~ ~~`
 `~~This was mistaken text~~`  
 ~~This was mistaken text~~
 
-Bold and italic	`** **` and `_ _`  
+Bold and italic	`** **` and `* *`  
 `**This text is *extremely* important**`  
 **This text is *extremely* important**
 
