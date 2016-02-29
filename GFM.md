@@ -194,8 +194,8 @@ Please note that the words in parentheses should be lowercase.
 
 ####Images in GitHub
 
-`![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)`  
-![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)
+`![](https://github.com/Singh-Liu/Docs/blob/master/Images/Singh0.jpg)`  
+![](https://github.com/Singh-Liu/Docs/blob/master/Images/Singh0.jpg)
 
 ####Putting a hyperlink on the image
 
