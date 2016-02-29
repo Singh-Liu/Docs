@@ -158,8 +158,8 @@ puts markdown.to_html
 `This site was built using [GitHub Pages](https://pages.github.com/).`  
 This site was built using [GitHub Pages](https://pages.github.com/).
 
-`[GitHub Pages](http://blog.csdn.net/guodongxiaren "悬停显示")  `  
-[GitHub Pages](http://blog.csdn.net/guodongxiaren "悬停显示")  
+`[My GitHub Page](https://github.com/Singh-Liu "悬停显示")  `  
+[My GitHub Page](https://github.com/Singh-Liu "悬停显示")  
 
 Visit https://github.com
 
