@@ -27,7 +27,7 @@ printf("%d", i) ;
 const int AMOUNT = 100;
 ```
 
-输入以及打印多个变量
+输入以及打印多个变量：
 ```c
 #include <stdio.h>
 
