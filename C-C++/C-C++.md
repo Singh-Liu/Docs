@@ -55,3 +55,5 @@ int main()
 
 `total *= sum + 12;`等价于`total = total * (sum + 12);`
 
+`++`和`--`对应的算子必须是变量。
+
