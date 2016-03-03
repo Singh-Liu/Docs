@@ -142,3 +142,21 @@ int main()
 在调试时可以考虑在代码中的某些位置临时加入`printf()`函数来帮助调试。
 
 在循环语句中，循环条件的判断通常设置为对边界情况的判断，然后再以此来推导出其他参数，比如自增变量或者自减变量的初始值。
+
+生成100以内的随机数：
+```c
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
+int main()
+{
+	srand(time(0));
+	int a = rand();
+	
+	printf("%d\n", a%100);
+
+	return 0;
+}
+```
+
