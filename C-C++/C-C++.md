@@ -80,7 +80,7 @@ default:
 
 switch语句可以看作是一种基于计算的跳转，计算控制表达式的值后，程序会跳转到相匹配的case（分支标号）处。分支标号只是说明switch内部位置的路标，所以case并不能阻止程序往下执行，如果遇不到break或者switch结束，就会顺序执行下去。
 
-```
+```c
 #include <stdio.h>
 
 int main()
