@@ -59,3 +59,82 @@ int main()
 
 关系运算符的结果为整数1或者0，关系判断为真时为1，假时为0。
 
+`if else-if`进入各分支的判断条件是互补相容的。
+
+```c
+switch(控制表达式){  //控制表达式只能是整数型的结果
+case 常量:  //常量可以是常数，也可以是常数计算的表达式，比如1 + 1 或者 const int
+  语句
+  ……
+case 常量:
+  语句
+  ……
+case 常量:
+  语句
+  ……
+default:
+  语句
+  ……
+}
+```
+
+switch语句可以看作是一种基于计算的跳转，计算控制表达式的值后，程序会跳转到相匹配的case（分支标号）处。分支标号只是说明switch内部位置的路标，所以case并不能阻止程序往下执行，如果遇不到break或者switch结束，就会顺序执行下去。
+
+```
+#include <stdio.h>
+
+int main()
+{
+	printf("请输入月份：");
+	int month;
+	scanf("%d", &month);
+	switch ( month )
+	{
+		case 1: printf("January\n"); break;
+		case 2: printf("February\n"); break;
+		case 3: printf("March\n"); break;
+		case 4: printf("April\n"); break;
+		case 5: printf("May\n"); break;
+		case 6: printf("June\n"); break;
+		case 7: printf("July\n"); break;
+		case 8: printf("August\n"); break;
+		case 9: printf("September\n"); break;
+		case 10:printf("October\n"); break;
+		case 11:printf("November\n"); break;
+		case 12:printf("December\n"); break;
+	}
+
+	return 0;
+}
+```
+
+```c
+#include <stdio.h>
+
+int main()
+{
+	printf("输入成绩（0-100）");
+	int grade;
+	scanf("%d", &grade);
+	grade /=10;
+	switch ( grade ) {
+	case 10:
+	case 9:
+		printf("A\n");
+		break;
+	case 8:
+		printf("B\n");
+		break;
+	case 7:
+		printf("C\n");
+		break;
+	case 6:
+		printf("D\n");
+		break;
+	default:
+		printf("F\n");
+	}
+
+	return 0;
+}
+```
