@@ -6,6 +6,7 @@
 - [Headings](#headings)
 - [Styling text](#styling-text)
     - [Test](#test)
+PS:注意小括号里目录项的字母都必须是小写，且单词之间必须以连字符连接。
 ```
 - [Headings](#headings)
 - [Styling text](#styling-text)
@@ -80,7 +81,7 @@ Bold and italic	`** **` and `* *`
 
 ##Paragraphs and line breaks
 
-Press ENTER 2 times after the end of the line.  
+Press 2 spaces and ENTER or press ENTER 2 times after the end of the line.  
 You can create a new paragraph by leaving a blank line between lines of text.
 Use \<br> to wrap to the next row.  
 ```
