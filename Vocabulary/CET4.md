@@ -1,16 +1,16 @@
 1
 ```
-sincere［sinˈsiə］ adj. 真诚的，真挚的 
+sincere [sɪn'sɪə] adj. 真诚的，真挚的 
 【记】：sin（罪）+ cere → 把自己的罪过告诉你 → 真挚的，真诚的
 ```
 2
 ```
-mood［muːd］ n. 心情，情绪，语气，气氛
+mood [muːd] n. 心情，情绪，语气，气氛
 【记】：有的人心情不好就喜欢暴饮暴食（mood不好就喜欢吃food）
 ```
 3
 ```
-static［ˈstætik］ adj. 静的，静态的，静止的，停滞的 n. 静电
+static ['stætɪk] adj. 静的，静态的，静止的，停滞的 n. 静电
 【记】：
 1. stat（处于某种state（状态））+ ic（...的） →  静止的，静态的
 2. st, stat, stit, sist = to stand    ic, ical = nature of
@@ -27,7 +27,7 @@ sen = old
 ```
 5
 ```
-hobby	[ˈhɔbi] n.	业余爱好，嗜好
+hobby	['hɒbɪ] n.	业余爱好，嗜好
 【记】：
 他的hobby是喝啤（喝啤酒）
 ```
@@ -58,7 +58,7 @@ fast [fɑːst] adj. adv. 快速的（地），稳固的（地）  
 ```
 10
 ```
-stir [stəː] n. 搅拌，轰动 vt. 搅拌，激起  
+stir [stɜː] n. 搅拌，轰动 vt. 搅拌，激起  
 【记】：
 咖啡这么烫，死等不如stir。
 ```
