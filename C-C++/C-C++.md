@@ -20,6 +20,7 @@ printf("%d", i) ;
 ```
 `variable`-->`monitor(get the data out of the memory)`
 将内存中变量所存放的数据以某种格式输出
+
 [Back to Top](#c)
 ##标识符和保留字
 标识符（identifier）是指用来标识某个实体的一个符号。在不同的应用环境下有不同的含义。在编程语言中，标识符是用户编程时使用的名字，对于变量、常量、函数、语句块也有名字；我们统统称之为标识符。C语言中，标识符由字母（A-Z,a-z）、数字（0-9）、下划线“_”组成，并且首字符不能是数字，但可以是字母或者下划线。例如，正确的标识符：abc，a1，prog_to。不能把C语言关键字作为用户标识符，例如if ,for, while等.标识符对大小写敏感，即严格区分大小写。一般对变量名用小写，符号常量命名用大写。标识符命名应做到“见名知意”，例如，长度（外语：length），求和、总计（外语：sum），圆周率（外语：pi）……
@@ -32,6 +33,7 @@ printf("%d", i) ;
 ```c
 const int AMOUNT = 100;
 ```
+
 [Back to Top](#c)
 ##输入输出多个变量
 ```c
@@ -49,6 +51,7 @@ int main()
 	return 0;
 }
 ```
+
 [Back to Top](#c)
 ##switch语句
 ```c
@@ -125,6 +128,7 @@ int main()
 	return 0;
 }
 ```
+
 [Back to Top](#c)
 ##生成随机数
 生成100以内的随机数：
@@ -143,11 +147,13 @@ int main()
 	return 0;
 }
 ```
+
 [Back to Top](#c)
 ##循环的选择
 - 如果有固定次数，用for
 - 如果必须执行一次，用do_while
 - 其他情况用while
+
 [Back to Top](#c)
 
 ##语法和技巧相关
