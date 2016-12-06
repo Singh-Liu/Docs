@@ -1,4 +1,4 @@
-1
+﻿1
 ```
 sincere [sɪn'sɪə] adj. 真诚的，真挚的 
 【记】：sin（罪）+ cere → 把自己的罪过告诉你 → 真挚的，真诚的
@@ -14,7 +14,7 @@ static ['stætɪk] adj. 静的，静态的，静止的，停滞的 n. 静电
 【记】：
 1. stat（处于某种state（状态））+ ic（...的） →  静止的，静态的
 2. st, stat, stit, sist = to stand    ic, ical = nature of
-本质上处于一种stand着（停滞，位于某种状态）的状态  →  静止的，静态的\
+本质上处于一种stand着（停滞，位于某种状态）的状态  →  静止的，静态的
 ```
 4
 ```
@@ -46,7 +46,7 @@ equ = equal, same  →  使具备一些条件让我们不逊色于（equal， s
 8
 ```
 frown [fraʊn] vi. vt. 皱眉，蹙额
-【记】：想到from就frown（想到出生就头疼，比如比如心怡女方的丈母娘要求门当户对）
+【记】：丈母娘要求门当户对，想到from就frown（想到出生就头疼）
 ```
 9
 ```
