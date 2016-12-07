@@ -79,7 +79,7 @@ distribute = （dis-）+（tribute）  →  give apart  →  分发，分配
 ```
 13
 ```
-flex [fleks]vt. vi. 弯曲，收缩
+flex [fleks] vt. vi. 弯曲，收缩
 flexible ['fleksɪbəl] adj. 灵活的，柔韧的，易弯曲的
 【记】：
 flex拆分  →  fly + ex（ex作前缀 = out）  →  fly out
