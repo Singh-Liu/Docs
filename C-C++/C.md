@@ -1,4 +1,4 @@
-#C
+﻿#C
 ##目录
 - [输入输出](#输入输出)
 - [标识符和保留字](#标识符和保留字)
@@ -134,8 +134,7 @@ int main()
 生成100以内的随机数：
 ```c
 #include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
+
 
 int main()
 {
@@ -154,6 +153,49 @@ int main()
 - 如果必须执行一次，用do_while
 - 其他情况用while
 
+##跳出多层循环
+- 使用多个break语句跳出多层循环
+```c
+int main()
+{
+	for(){
+		for{
+			for{
+				if{
+					exit = 1;
+					break;
+				}
+			}
+		if(exit) break;
+		}
+	if(exit) break;
+	}
+	return 0;
+}
+```
+- 使用goto语句跳出多层循环，从多重循环的内层跳到外层的时候，可以使用goto，其他地方建议尽量不要使用goto。
+
+```c
+#include <stdio.h>
+
+int main()
+{
+	for(){
+		for{
+			for{
+				if{
+					goto out;
+				}
+			}
+		if(exit) break;
+		}
+	if(exit) break;
+	}
+out:
+	return 0;
+}
+```
+
 [Back to Top](#c)
 
 ##语法和技巧相关
@@ -170,5 +212,6 @@ int main()
 - if, else if, else`进入各分支的判断条件是互不相容的。
 - 在调试时可以考虑在代码中的某些位置临时加入`printf()`函数来帮助调试。
 - 在循环语句中，循环条件的判断通常设置为对边界情况的判断，然后再以此来推导出其他参数，比如自增变量或者自减变量的初始值。
+- break跳出循环，break语句只能跳出它所在的一层循环；continue跳出此轮循环剩下的语句进入下一轮循环
 
 [Back to Top](#c)
