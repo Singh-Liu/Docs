@@ -8,6 +8,8 @@
 - [生成随机数](#生成随机数)
 - [循环的选择](#循环的选择)
 - [跳出多层循环](#跳出多层循环)
+- [浮点数和正负数的应用](#浮点数和正负数的应用)
+- [整数分解](#整数分解)
 - [语法和技巧相关](#语法和技巧相关)
 
 ##输入输出
@@ -198,7 +200,86 @@ out:
 ```
 
 [Back to Top](#c)
+##浮点数和正负数的应用
 
+```c
+#include <stdio.h>
+
+int main()
+{
+	int n;
+	int i;
+	double sum = 0.0;
+	double sign = 1.0;
+	
+	scanf("%d", &n);
+	for(i = 1; i <= n; i++){
+		sum += sign/i;
+		sign = -sign;
+	}
+
+	printf("f(%f)=%f\n", n, sum);
+
+	return 0;
+}
+```  
+[Back to Top](#c)
+##整数分解
+```c
+#include <stdio.h>
+
+int main()
+{
+	int x;
+	scanf("%d", &x);
+
+	x = 0;
+	int mask = 1;
+	int t = x;
+	while(t > 9){
+		t /= 10;
+		mask *= 10;
+	}
+	printf("x=%d, mask=%d\n", x, mask);
+	do{
+		int d = x / mask;
+		printf("%d", d);
+		if(mask > 9){
+			printf(" ");
+		}
+		x %= mask;
+		mask /= 10;
+	}while(mask > 0);
+	printf("\n");
+	return 0;
+}
+```  
+[Back to Top](#c)
+
+
+##最大公约数
+```c
+#include <stdio.h>
+
+int main()
+{
+	int a, b;
+	int t;
+	scanf("%d %d", &a, &b);
+	int origa = a;
+	int origb = b;
+	while(b != 0){
+		t = a % b;
+		a = b;
+		b = t;
+	}
+	
+	printf("%d和%d的最大公约数是%d。\n", origa, origb, a);	
+	
+	return 0;
+}
+```  
+[Back to Top](#c)
 ##语法和技巧相关
 - 虽然C语言没有强制要求所有的变量都在定义的地方做初始化，但是所有的变量在第一次被使用之前应该被赋值一次。
 - 语句是实现了某一种行为的，以分号结尾，当然有些复合语句是以右花括号结尾。
