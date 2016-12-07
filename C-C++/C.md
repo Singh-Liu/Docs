@@ -10,6 +10,7 @@
 - [跳出多层循环](#跳出多层循环)
 - [浮点数和正负数的应用](#浮点数和正负数的应用)
 - [整数分解](#整数分解)
+- [最大公约数](#最大公约数)
 - [语法和技巧相关](#语法和技巧相关)
 
 ##输入输出
@@ -235,12 +236,15 @@ int main()
 
 	x = 0;
 	int mask = 1;
-	int t = x;
+	int t = x;  
+
 	while(t > 9){
 		t /= 10;
 		mask *= 10;
-	}
-	printf("x=%d, mask=%d\n", x, mask);
+	}  
+
+	printf("x=%d, mask=%d\n", x, mask);  
+
 	do{
 		int d = x / mask;
 		printf("%d", d);
@@ -267,7 +271,8 @@ int main()
 	int t;
 	scanf("%d %d", &a, &b);
 	int origa = a;
-	int origb = b;
+	int origb = b;  
+
 	while(b != 0){
 		t = a % b;
 		a = b;
