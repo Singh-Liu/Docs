@@ -288,14 +288,51 @@ int main()
 [Back to Top](#c)
 
 ##C语言的类型
+粗体为C99的类型
 - 整数
 `char`、`short`、`int`、`long`、**`long long`**
 - 浮点数
-`float`、`double`、`**long double**`
+`float`、`double`、**`long double`**
 - 逻辑
-`bool`
+**`bool`**
 - 指针
-- 自定义类型
+- 自定义类型  
+
+- 类型名称：int、long、double
+- 输入输出时的格式变化：%d、%ld、%lf
+- 所表达的数的范围：char < short < int < float < double
+- 内存中所占据的大小：1个字节到16个字节
+- 内存中表达形式：二进制数（补码）[整型]、编码[浮点]  
+
+###sizeof
+一个运算符，给出某个类型或变量在内存中所占据的字节数。它是一个静态运算符，它的结果在编译时刻就决定了，所以不要在sizeof的括号里做运算，这些运算是不会执行的。
+- sizeof(int)
+- sizeof(i)
+
+```c
+int a = 6;
+printf("sizeof(a)=%ld\n", sizeof(a++));//输出sizeof(a)=4
+printf("a=%d\n", a);//输出a=6
+```  
+
+```c
+int a = 6;
+printf("sizeof(a)=%ld\n", sizeof(a+1.0));//输出sizeof(a)=8
+printf("a=%d\n", a);//输出a=6
+```  
+
+###整数
+- char：1字节
+- short：2字节
+- int：取决于编译器（CPU），通常的意义是“1个字”（字长为CPU寄存器的数据宽度，也是CPU和内存做数据交换时总线的数据宽度）
+- long：取决于编译器（CPU），通常的意义是“1个字”
+- long long：8字节
+
+
+
+
+[Back to Top](#c)
+
 ##语法和技巧相关
 - 虽然C语言没有强制要求所有的变量都在定义的地方做初始化，但是所有的变量在第一次被使用之前应该被赋值一次。
 - 语句是实现了某一种行为的，以分号结尾，当然有些复合语句是以右花括号结尾。
