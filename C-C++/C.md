@@ -298,6 +298,7 @@ int main()
 - 指针
 - 自定义类型  
 
+###类型有何不同
 - 类型名称：int、long、double
 - 输入输出时的格式变化：%d、%ld、%lf
 - 所表达的数的范围：char < short < int < float < double
